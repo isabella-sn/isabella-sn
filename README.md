@@ -18,14 +18,6 @@
 
 ---
 
-## 📊 Linguagens mais usadas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-sn&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Streak
 
 <p align="center">
