@@ -38,6 +38,6 @@
 ## 📫 Contato
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu-perfil">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/isabella-santos-78131522a?">LinkedIn</a>
 </p>
-``
+
