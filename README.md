@@ -21,7 +21,7 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=isabella-sn&show_icons=true&theme=tokyonight"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-sn&layout=compact&theme=tokyonight"/>
 </p>
 
