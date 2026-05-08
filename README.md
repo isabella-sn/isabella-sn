@@ -18,15 +18,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=isabella-sn&show_icons=true&theme=tokyonight" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-sn&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🔥 Streak
 
 <p align="center">
