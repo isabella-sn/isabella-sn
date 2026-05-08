@@ -23,10 +23,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-sn&layout=compact&theme=tokyonight" />
 </p>
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=isabella-sn&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabella-sn&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
